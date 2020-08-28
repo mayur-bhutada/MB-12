@@ -9,8 +9,8 @@
 
 <channel>
 	<title>MB12</title>
-	<atom:link href="https://https://mayur-bhutada.github.io/MB-12/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://mayur-bhutada.github.io/MB-12</link>
+	<atom:link href="https://mayur-bhutada.github.io/MB-12/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mayur-bhutada.github.io/MB-12</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 27 Aug 2020 10:23:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.5</generator>
 	<item>
 		<title>Mayur</title>
-		<link>https://https://mayur-bhutada.github.io/MB-12/2020/08/27/mayur/</link>
+		<link>https://mayur-bhutada.github.io/MB-12/2020/08/27/mayur/</link>
 		
 		<dc:creator><![CDATA[Mayur]]></dc:creator>
 		<pubDate>Thu, 27 Aug 2020 10:23:11 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://https://mayur-bhutada.github.io/MB-12/?p=12</guid>
+		<guid isPermaLink="false">https://mayur-bhutada.github.io/MB-12/?p=12</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
