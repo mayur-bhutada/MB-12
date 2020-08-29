@@ -12,7 +12,7 @@
 	<atom:link href="https://mayur-bhutada.github.io/MB-12/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mayur-bhutada.github.io/MB-12</link>
 	<description></description>
-	<lastBuildDate>Thu, 27 Aug 2020 10:23:11 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Aug 2020 12:11:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,26 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.5</generator>
 	<item>
+		<title>Hey, I&#8217;M</title>
+		<link>https://mayur-bhutada.github.io/MB-12/2020/08/28/hey-im/</link>
+					<comments>https://mayur-bhutada.github.io/MB-12/2020/08/28/hey-im/#respond</comments>
+		
+		<dc:creator><![CDATA[Mayur]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2020 12:11:02 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://mayur-bhutada.github.io/MB-12/?p=141</guid>
+
+					<description><![CDATA[I&#8217;m mayur]]></description>
+										<content:encoded><![CDATA[
+<p>I&#8217;m mayur</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mayur-bhutada.github.io/MB-12/2020/08/28/hey-im/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Mayur</title>
 		<link>https://mayur-bhutada.github.io/MB-12/2020/08/27/mayur/</link>
 		
