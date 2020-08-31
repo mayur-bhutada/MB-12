@@ -1,0 +1,19 @@
+.elementor-81 .elementor-element.elementor-element-454d0e90:not(.elementor-motion-effects-element-type-background), .elementor-81 .elementor-element.elementor-element-454d0e90 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #141519;}
+.elementor-81 .elementor-element.elementor-element-454d0e90 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 60px 0px 60px 0px;}
+.elementor-81 .elementor-element.elementor-element-454d0e90 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-81 .elementor-element.elementor-element-c45538d {text-align: center;}
+.elementor-81 .elementor-element.elementor-element-c45538d .elementor-heading-title {color: #02d1ae;font-size: 25px;font-weight: 500;text-transform: uppercase;letter-spacing: 2px;}
+.elementor-81 .elementor-element.elementor-element-c45538d > .elementor-widget-container {margin: 0px 0px 25px 0px;}
+.elementor-81 .elementor-element.elementor-element-3e80b01e {--grid-template-columns: repeat(0,auto);--grid-column-gap: 40px;--grid-side-margin: 40px;--grid-row-gap: 0px;--grid-bottom-margin: 0px;}
+.elementor-81 .elementor-element.elementor-element-3e80b01e .elementor-widget-container {justify-content: center;}
+.elementor-81 .elementor-element.elementor-element-3e80b01e .elementor-social-icon {background-color: rgba(255,255,255,0);font-size: 27px;padding: 0em;}
+.elementor-81 .elementor-element.elementor-element-3e80b01e .elementor-social-icon i {color: #fff;}
+.elementor-81 .elementor-element.elementor-element-3e80b01e .elementor-social-icon svg {fill: #fff;}
+.elementor-81 .elementor-element.elementor-element-3e80b01e .elementor-social-icon:hover i {color: #00ce1b;}
+.elementor-81 .elementor-element.elementor-element-3e80b01e .elementor-social-icon:hover svg {fill: #00ce1b;}
+@media (max-width:1024px) {.elementor-81 .elementor-element.elementor-element-454d0e90 {padding: 40px 20px 40px 20px;}
+	.elementor-81 .elementor-element.elementor-element-3e80b01e > .elementor-widget-container {padding: 40px 0px 0px 0px;}}
+@media (max-width:767px) {.elementor-81 .elementor-element.elementor-element-454d0e90 {padding: 30px 20px 30px 20px;}
+	.elementor-81 .elementor-element.elementor-element-3e80b01e .elementor-social-icon {font-size: 15px;}
+	.elementor-81 .elementor-element.elementor-element-3e80b01e {--grid-column-gap: 16px;--grid-side-margin: 16px;}
+	.elementor-81 .elementor-element.elementor-element-3e80b01e > .elementor-widget-container {padding: 0px 0px 0px 0px;}}
